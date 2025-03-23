@@ -1,4 +1,4 @@
-# scooter
+# Rent a Scooter App
 
 A new Flutter project.
 
